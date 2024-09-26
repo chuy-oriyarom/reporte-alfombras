@@ -1,0 +1,16 @@
+SampleWebSocket/
+
+SimplePHPService/
+
+TestServiceToAndroid/
+
+*.cache
+*.pdf
+*.ftpquota
+
+serverSocketRestaurantes.php
+enviardatoawebsockets.php
+enviarcorreosocketinactivo2.php
+info.php
+
+error_log
